@@ -4,5 +4,7 @@ Portfolio
 
 
 
-Uploading KakaoTalk_20250802_141711582.mp4…
+
+
+https://github.com/user-attachments/assets/7ea31d52-0dd4-48cc-a0c9-b9398756d94a
 
