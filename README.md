@@ -32,4 +32,20 @@ https://github.com/googlesamples/google-signin-unity
 <img width="1219" height="839" alt="image" src="https://github.com/user-attachments/assets/0134534c-44e2-47c6-bc02-0c89278f7a9c" />
 ## 사용 범위 : 단순한 ui(복잡한 ui구현 불가)
 
+## 개발 기간 : 한달
+
+## 게임 시작시 로직
+### 1. 앱 실행 시 구글 계정으로 로그인 요청
+### 2. 로그인에 성공하면 서버에서 기본 에피소드 1 데이터를 전송
+### 3. 사용자가 “시작” 버튼을 누르면 에피소드 메뉴가 열리고 플레이 가능한 에피소드 목록이 표시됨(예: 에피소드 1)
+### 4. 에피소드를 완료하면 서버에서 다음 에피소드 데이터를 받아와 계속 진행
+
+# 기타 지금 사용 가능한 프로젝트
+## 키보드 피아노 (깃 허브 호스팅)
+### https://r2d2c2.github.io/unityWebGL/
+## unity ML에이전트(자체 호스팅)
+### https://김철수.웹.한국
+## LLM(자체 호스팅)
+### https://김철수.메인.한
+
 
