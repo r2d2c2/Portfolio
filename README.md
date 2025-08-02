@@ -46,6 +46,6 @@ https://github.com/googlesamples/google-signin-unity
 ## unity ML에이전트(자체 호스팅)
 ### https://김철수.웹.한국
 ## LLM(자체 호스팅)
-### https://김철수.메인.한
+### https://김철수.메인.한국
 
 
