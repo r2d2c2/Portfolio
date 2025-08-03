@@ -48,4 +48,25 @@ https://github.com/googlesamples/google-signin-unity
 ## LLM(자체 호스팅)
 ### https://김철수.메인.한국
 
+# 명함 인식 AR 
+![KakaoTalk_20250803_162818521](https://github.com/user-attachments/assets/bfac9e13-5766-42e3-a502-523f68d7b867)
+
+# 지하 매설물 AR 관리 시스템 프로젝트
+
+## 지원 기기 : 안드로이드 
+## 실행 로직
+### 1. 앱 실행
+### 2. 도로위에 NFC토글 인식(접근)
+### 3. NFC토글 정보를 서버 송신 위치에 해당하는 지하 매설물 데이터 json으로 수신
+### 4. json 기반의 데이터를 3D 오브젝트로 출력
+## 시연 영상
+https://github.com/user-attachments/assets/877efb6c-5182-44c9-9795-013b5674e061
+
+
+
+https://github.com/user-attachments/assets/2e6f43af-1100-44ff-bcca-50ba4193df28
+
+
+
+
 
