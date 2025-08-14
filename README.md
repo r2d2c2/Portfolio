@@ -5,8 +5,8 @@
 ## 사용 엔진 : unity6
 ## 지원 언어 : 한국어, 영어
 ## one store 등록
-[<img width="344" height="247" alt="image" src="https://github.com/user-attachments/assets/f2d9a8c6-eb3e-4532-8ce7-f3a66d7558a0" />
-](https://m.onestore.co.kr/v2/ko-kr/app/0001001898)
+https://m.onestore.co.kr/v2/ko-kr/app/0001001898
+
 ## 시연 영상
 
 
