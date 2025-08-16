@@ -47,6 +47,8 @@ https://github.com/googlesamples/google-signin-unity
 ### https://김철수.웹.한국
 ## LLM(자체 호스팅)
 ### https://김철수.메인.한국
+## spring boot websocket으로 통신하는 unity web 채팅(자체 호스팅)
+### https://김철수.서버.한국
 
 # 명함 인식 AR 
 ![KakaoTalk_20250803_162818521](https://github.com/user-attachments/assets/bfac9e13-5766-42e3-a502-523f68d7b867)
